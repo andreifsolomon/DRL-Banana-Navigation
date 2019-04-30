@@ -1,2 +1,2 @@
-# DRL-Banana-Navigation
-Unity Banana Navigation Project
+# UDACITY DRL-Banana-Navigation
+UDACITY - Unity Banana Navigation Project
