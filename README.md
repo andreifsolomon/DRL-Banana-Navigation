@@ -1,2 +1,2 @@
-# DRL-Banana_Navigation
+# DRL-Banana-Navigation
 Unity Banana Navigation Project
