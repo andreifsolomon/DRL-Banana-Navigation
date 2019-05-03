@@ -73,7 +73,9 @@ class DuelQNetwork(nn.Module):
             ('fc1', nn.Linear(self.input_size, self.hidden_sizes[0])),
             ('relu1', nn.ReLU())]))
 
-        print("self.model: {}".format(self.feature_model))
+        print("self.feature_model: {}".format(self.feature_model))
+        print("self.value_approximator_model: {}".format(self.value_approximator_model))
+        print("self.advantage_approximator_model: {}".format(self.advantage_approximator_model))
 
     def forward(self, state):
         """Build a network that maps state -> action values."""
