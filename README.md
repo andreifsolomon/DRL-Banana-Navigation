@@ -39,67 +39,7 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 ### Instructions
 
-Follow the instructions in `Navigation.ipynb` to get started with training your own agent!  
-
-### (Optional) Challenge: Learning from Pixels
-
-After you have successfully completed the project, if you're looking for an additional challenge, you have come to the right place!  In the project, your agent learned from information such as its velocity, along with ray-based perception of objects around its forward direction.  A more challenging task would be to learn directly from pixels!
-
-To solve this harder task, you'll need to download a new Unity environment.  This environment is almost identical to the project environment, where the only difference is that the state is an 84 x 84 RGB image, corresponding to the agent's first-person view.  (**Note**: Udacity students should not submit a project with this new environment.)
-
-You need only select the environment that matches your operating system:
-- Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/VisualBanana_Linux.zip)
-- Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/VisualBanana.app.zip)
-- Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/VisualBanana_Windows_x86.zip)
-- Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/VisualBanana_Windows_x86_64.zip)
-
-Then, place the file in the `p1_navigation/` folder in the DRLND GitHub repository, and unzip (or decompress) the file.  Next, open `Navigation_Pixels.ipynb` and follow the instructions to learn how to use the Python API to control the agent.
-
-(_For AWS_) If you'd like to train the agent on AWS, you must follow the instructions to [set up X Server](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-on-Amazon-Web-Service.md), and then download the environment for the **Linux** operating system above.
-
-
-TODO
-
-When you are ready to submit your project, collect the following files and compress them into a single zip archive for upload:
-
-- The Navigation.ipynb file with fully functional code, all code cells executed and displaying output, and all questions answered. You can also download this via your workspace by clicking download as..
-- A README.md markdown file with a description of your code, much like this one.
-- An HTML or PDF export of the project report with the name Report.html or Report.pdf.
-- A file with the saved model weights of the successful agent, can be named something like model.pt.
-- Any additional images used for the project that were not supplied to you for the project. Please do not include the large banana, project data sets that you may download to work with. These files will make your project too large to submit.
+Follow the instructions in `Navigation.ipynb` to get started with training the agent!  
 
 
 
-Training Code
-
-CRITERIA        | MEETS SPECIFICATIONS
-Training Code   | The repository (or zip file) includes functional, well-documented, and organized code for training the agent.
-
-Framework       | The code is written in PyTorch and Python 3.
-
-Saved Model Weights || The submission includes the saved model weights of the successful agent.
-
-
-
-
-README
-
-README.md  | The GitHub (or zip file) submission includes a README.md file in the root of the repository.
-
-Project Details | The README describes the the project environment details (i.e., the state and action spaces, and when the environment is considered solved).
-
-Getting Started | The README has instructions for installing dependencies or downloading needed files.
-
-Instructions  | The README describes how to run the code in the repository, to train the agent. For additional resources on creating READMEs or using Markdown, see here and here.
-
-
-
-Report
-
-Report | The submission includes a file in the root of the GitHub repository or zip file (one of Report.md, Report.ipynb, or Report.pdf) that provides a description of the implementation.
-
-Learning Algorithm | The report clearly describes the learning algorithm, along with the chosen hyperparameters. It also describes the model architectures for any neural networks.
-
-Plot of Rewards | A plot of rewards per episode is included to illustrate that the agent is able to receive an average reward (over 100 episodes) of at least +13. The submission reports the number of episodes needed to solve the environment.
-
-Ideas for Future Work | The submission has concrete future ideas for improving the agent's performance.
