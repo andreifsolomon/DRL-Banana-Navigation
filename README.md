@@ -37,6 +37,16 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 2. Place the downloaded zip file in the GitHub repository, in the `DRL-Banana-Navigation/` (current) folder, and unzip (or decompress) the file. 
 
+### Repository Contents
+
+- **Navigation.ipynb** - this is anotebook that contains the training code
+- **Navigation-Viewer.ipynb** - notebook that can be used to view the final model, saved as 'model.pth'
+- **dqn_agent.py** - this contains the implementation of the agent and the replay buffer
+- **model.py** - contains the QNetwork and DuelQNetwork implementations. The second one is used in this project/demo.
+
+- **model.pth** - final saved weights after training
+
+
 ### Instructions
 
 Follow the instructions in `Navigation.ipynb` to get started with training the agent!  
