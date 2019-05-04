@@ -3,7 +3,7 @@ UDACITY - Unity Banana Navigation Project
 
 [//]: # (Image References)
 
-[image1]: https://user-images.githubusercontent.com/10624937/42135619-d90f2f28-7d12-11e8-8823-82b970a54d7e.gif "Trained Agent"
+[image1]: https://github.com/andreifsolomon/DRL-Banana-Navigation/blob/master/duel-dqn-animation.gif?raw=true "Trained Agent"
 
 # Project 1: Unity Navigation
 
