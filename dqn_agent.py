@@ -7,7 +7,6 @@ from model import QNetwork, DuelQNetwork
 import torch
 import torch.nn.functional as F
 import torch.optim as optim
-from segment_tree import *
 
 
 BUFFER_SIZE = int(1e5)  # replay buffer size
