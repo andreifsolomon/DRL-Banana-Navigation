@@ -4,6 +4,7 @@ UDACITY - Unity Banana Navigation Project
 [//]: # (Image References)
 
 [image1]: https://github.com/andreifsolomon/DRL-Banana-Navigation/blob/master/duel-dqn-animation.gif?raw=true "Trained Agent"
+[image2]: https://github.com/andreifsolomon/DRL-Banana-Navigation/blob/master/notebook_kernel_update.png?raw=true "Kernel"
 
 # Project 1: Unity Navigation
 
@@ -74,8 +75,7 @@ python -m ipykernel install --user --name drlnd --display-name "drlnd"
 
 5. Before running code in a notebook, change the kernel to match the `drlnd` environment by using the drop-down `Kernel` menu. 
 
-[image2]:
-
+![Kernel][image2]
 
 
 ### Repository Contents
