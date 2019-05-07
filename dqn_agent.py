@@ -10,8 +10,8 @@ import torch.optim as optim
 
 
 BUFFER_SIZE = int(1e5)  # replay buffer size
-BATCH_SIZE = 64  # minibatch size
-GAMMA = 0.99  # discount factor
+BATCH_SIZE = 32  # minibatch size
+GAMMA = 0.99  # discount factor to dampen the future rewards’ effect
 TAU = 1e-3  # for soft update of target parameters
 LR = 5e-4  # learning rate
 LR = 0.001
