@@ -1,12 +1,11 @@
-# UDACITY Deep Reinforcement Learning - Unity Banana Navigation Project
-
+# UDACITY Deep Reinforcement Learning
 
 [//]: # (Image References)
 
 [image1]: https://github.com/andreifsolomon/DRL-Banana-Navigation/blob/master/duel-dqn-animation.gif?raw=true "Trained Agent"
 [image2]: https://github.com/andreifsolomon/DRL-Banana-Navigation/blob/master/notebook_kernel_update.png?raw=true "Kernel"
 
-# Project 1: Unity Navigation
+# Project 1: Unity Banana Navigation Project
 
 ### Introduction
 
