@@ -1,5 +1,5 @@
-# UDACITY Deep Reinforcement Learning - Banana Navigation
-UDACITY - Unity Banana Navigation Project
+# UDACITY Deep Reinforcement Learning - Unity Banana Navigation Project
+
 
 [//]: # (Image References)
 
