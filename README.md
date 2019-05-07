@@ -1,4 +1,4 @@
-# UDACITY Deep Reinforcement Learning -Banana Navigation
+# UDACITY Deep Reinforcement Learning - Banana Navigation
 UDACITY - Unity Banana Navigation Project
 
 [//]: # (Image References)
