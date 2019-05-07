@@ -83,10 +83,10 @@ To set up your python environment to run the code in this repository, follow the
 	activate drlnd
 	```
 	
-2. Clone the repository (if you haven't already!), and navigate to the `setup/` folder.  Then, install several dependencies.
+2. Clone the repository (if you haven't already!), and navigate to the `udacity-ml-agents/` folder.  Then, install several dependencies.
 ```bash
 git clone https://github.com/andreifsolomon/DRL-Banana-Navigation.git
-cd deep-reinforcement-learning/setup
+cd deep-reinforcement-learning/udacity-ml-agents
 pip install .
 ```
 
