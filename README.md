@@ -21,13 +21,11 @@ The goal is to train an agent to navigate (and collect bananas!) in a large, squ
 
 ### Rewards
 
-A reward of +1 will be provided for getting a yellow banana
-A reward of -1 will be provided for collecting a blue banana
-  
+A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana.   
 
 ![Trained Agent][image1]
 
-A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana.  Thus, the goal of your agent is to collect as many yellow bananas as possible while avoiding blue bananas.  
+Thus, the goal of your agent is to collect as many yellow bananas as possible while avoiding blue bananas.  
 
 ### State Space
 
